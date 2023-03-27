@@ -4,7 +4,7 @@ La librairie Lapage souhaite faire le point après deux ans d’exercice, et ana
 
 Projet effectué dans le cadre de ma formation chez OpenClassrooms
 
-- Nettoyage de données
+- Nettoyer les données
 
 - Réaliser un test statistique
 
@@ -12,4 +12,4 @@ Projet effectué dans le cadre de ma formation chez OpenClassrooms
 
 - Analyser des séries temporelles
 
-- Visualisation des données.
+- Visualiser les données.
